@@ -22,6 +22,11 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'mail_form'
+gem 'jquery-rails', '~> 4.1', '>= 4.1.1'
+gem 'dotenv-rails', groups: [:development, :test]
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
